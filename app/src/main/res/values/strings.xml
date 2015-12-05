@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyJD</string>
+
+    <string name="home">主页</string>
+    <string name="coupon">优惠券</string>
+    <string name="redemp">积分兑换</string>
+    <string name="news">最新消息</string>
+</resources>
